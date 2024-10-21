@@ -27,8 +27,7 @@ namespace Class06.Migrations
             //    name: "student",
             //    columns: table => new
             //    {
-            //        number = table.Column<int>(type: "int", nullable: false)
-            //            .Annotation("SqlServer:Identity", "1, 1"),
+            //        number = table.Column<int>(type: "int", nullable: false),
             //        name = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false),
             //        classId = table.Column<int>(type: "int", nullable: true)
             //    },
